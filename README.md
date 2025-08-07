@@ -31,7 +31,7 @@ The chatbot can:
 ### 1. Clone the repo
 ```
 git clone https://github.com/bharat-tawri/Long-term-memory-openai.git
-cd agentic-memory-chatbot
+cd Long-term-memory-openai
 ```
 ### 2. Create virtual environment
 ```
@@ -57,5 +57,5 @@ This will run at: `http://localhost:5000/chat`
 
 ### 2. Launch the Streamlit Front-End
 ```
-streamlit run streamlit_ui.py
+streamlit run frontend_code.py
 ```
