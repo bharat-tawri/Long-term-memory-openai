@@ -16,6 +16,7 @@ The chatbot can:
 - **API Interface**: Flask-powered REST API to connect with the front-end.
 
 ## 🛠️ Folder Structure
+```
 .
 ├── app.py               # Flask API that calls LangGraph workflow
 ├── main.py              # Core LangGraph graph definition
@@ -23,6 +24,7 @@ The chatbot can:
 ├── requirements.txt     # All required Python dependencies
 ├── .env                 # Environment variables (add your OpenAI API key here)
 └── README.md            # This file
+```
 
 ## 🚀 Getting Started
 
