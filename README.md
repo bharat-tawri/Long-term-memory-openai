@@ -30,7 +30,7 @@ The chatbot can:
 
 ### 1. Clone the repo
 ```
-git clone https://github.com/your-username/agentic-memory-chatbot.git
+git clone https://github.com/bharat-tawri/Long-term-memory-openai.git
 cd agentic-memory-chatbot
 ```
 ### 2. Create virtual environment
