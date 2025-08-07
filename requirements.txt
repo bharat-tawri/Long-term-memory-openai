@@ -1,0 +1,11 @@
+Flask==3.1.1
+streamlit==1.48.0
+python-dotenv==1.0.1
+langchain==0.3.27
+openai==1.98.0
+chromadb==1.0.15
+tqdm
+uuid==1.30
+langgraph==0.6.3
+langchain-community==0.3.27
+tiktoken==0.8.0
